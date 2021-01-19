@@ -1,6 +1,6 @@
 ## Amit Tauro
 
-I have been studying on Makers Academy Part-Time Course from July 2020 to January 2021. I have developed an understanding the core principles of the most popular programming languages, and cemented best processes and practices. My goal is to work at a company where I can continue to both improve and diversify the skillset that I developed at Makers.
+I am currently studying on Makers Academy Part-Time Course from July 2020 to January 2021. I have developed an understanding the core principles of the most popular programming languages, and cemented best processes and practices. My goal is to work at a company where I can continue to both improve and diversify the skillset that I developed at Makers.
 
 ## Projects
 
@@ -20,7 +20,7 @@ I thrive off working with others to come up with improved ideas and solutions. I
 
 ## Experience
 
-5 years' experience delivering process engineering support and improvements at chemical sites. 
+5 years' experience delivering process engineering support and improvements at chemical sites.
 
 ## Education
 
