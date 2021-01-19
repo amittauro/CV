@@ -1,64 +1,41 @@
-## Your Name
+## Amit Tauro
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I have been studying on Makers Academy Part-Time Course from July 2020 to January 2021. I have developed an understanding the core principles of the most popular programming languages, and cemented best processes and practices. My goal is to work at a company where I can continue to both improve and diversify the skillset that I developed at Makers.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **[Tic Tac Toe](https://github.com/amittauro/tic-tac-toe)**            | A tech test demonstrating core princiles | Ruby |
 | **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### *Problem Solving*
+I love problem solving. I regularly use this skill as a chemical engineer to troubleshoot plant operation.
+#### *Design*
+I am passionate about coming up with the efficient designs. This is an integral part of my experience where I regularly designed optimum processes.
+#### *Communication*
+I thrive off working with others to come up with improved ideas and solutions. I have been able to develop this skill through regular pairing at Makers.
 
-#### This Skill
+## Experience
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+5 years' experience delivering process engineering support and improvements at chemical sites. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy Part Time Course (July 2020 to January 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Newcastle-Upon-Tyne (Sept 2011 - June 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- First Class Honours in Chemical Engineering (MEng)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Grade 7 Piano
+- Level 1 Tennis Coach
