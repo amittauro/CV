@@ -1,6 +1,8 @@
-## Amit Tauro
+[Projects](#projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/amittauro/)
 
-I studied at Makers Academy Part-Time Course from July 2020 to January 2021 understanding the core principles of the most popular programming languages and cementing best processes and practices. My goal is to work at a company where I can continue to both improve and diversify the skillset that I developed at Makers, as well as using the transferable engineering skills i've gained in previous roles.
+# Amit Tauro
+
+I studied at Makers Academy Part-Time Course from July 2020 to January 2021 understanding the core principles of the most popular programming languages and cementing best processes and practices. My goal is to work at a company where I can continue to both improve and diversify the skillset that I developed at Makers, as well as using the transferable engineering skills I have gained in previous roles.
 
 ## Projects
 
