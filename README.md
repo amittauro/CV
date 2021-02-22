@@ -58,4 +58,4 @@ I thrive off working with others to come up with improved ideas and solutions. I
 ## Hobbies
 
 - I am grade 7 pianist and love to play piano in my free time.
-- I also love playing Tennis and have a Level 1 coaching qualification.
+- I am a Tennis enthusiast and have a Level 1 coaching qualification.
