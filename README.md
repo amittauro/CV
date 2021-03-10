@@ -9,7 +9,7 @@ I studied at Makers Academy Part-Time Course from July 2020 to January 2021 unde
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Santander Monthly Account Report](https://github.com/amittauro/Santander-account-report)**            |Front-end web app summarising monthly transactions | React |
-| **[Tic Tac Toe](https://github.com/amittauro/tic-tac-toe)** | Command line application demonstrating TDD and OOD principles | Ruby              |
+| **[Boggle](https://github.com/amittauro/boggle-python-web-app)** | Web app with recursion backtracking | Python              |
 | **[Twitter Clone](https://github.com/amittauro/chitter-front-end-react)** | Front-end web app with multiple ajax requests | React              |M
 
 ## Skills
@@ -47,6 +47,7 @@ I thrive off working with others to come up with improved ideas and solutions. I
 - Ruby, Rails
 - JavaScript, React
 - RSpec, Capybara, Jasmine, Jest
+- Python, Pytest, Flask
 - HTML/ CSS
 - Travis/ Circle CI
 - Heroku/ AWS
